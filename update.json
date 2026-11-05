@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.3",
+  "versionCode": 4,
+  "versionName": "1.4",
   "apk": "https://github.com/britogabriel92/hub-confaf-config/releases/latest/download/app-release.apk",
-  "notes": "Versão atual"
+  "notes": "Corrige a edição de cards e sites."
 }
