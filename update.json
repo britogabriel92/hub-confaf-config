@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.8",
+  "versionCode": 9,
+  "versionName": "1.9",
   "apk": "https://github.com/britogabriel92/hub-confaf-config/releases/latest/download/app-release.apk",
-  "notes": "Novo visual black glass, modo administrador, compartilhar app."
+  "notes": "Corrige o modo computador: sites abrem com layout de PC."
 }
