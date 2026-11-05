@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "1.11",
+  "versionCode": 12,
+  "versionName": "1.12",
   "apk": "https://github.com/britogabriel92/hub-confaf-config/releases/latest/download/app-release.apk",
-  "notes": "Modo computador: zoom com dois dedos."
+  "notes": "Modo computador real: abre com layout de PC ajustado à tela."
 }
