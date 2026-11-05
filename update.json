@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.9",
+  "versionCode": 10,
+  "versionName": "1.10",
   "apk": "https://github.com/britogabriel92/hub-confaf-config/releases/latest/download/app-release.apk",
-  "notes": "Corrige o modo computador: sites abrem com layout de PC."
+  "notes": "Teste da atualização interna do app."
 }
