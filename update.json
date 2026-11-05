@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.4",
+  "versionCode": 8,
+  "versionName": "1.8",
   "apk": "https://github.com/britogabriel92/hub-confaf-config/releases/latest/download/app-release.apk",
-  "notes": "Corrige a edição de cards e sites."
+  "notes": "Novo visual black glass, modo administrador, compartilhar app."
 }
