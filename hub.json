@@ -1,0 +1,187 @@
+{
+  "title": "Projetos CONFAF Brasil",
+  "sub": "Conheça nossos projetos",
+  "dim": 0.55,
+  "logo": "img/logo.webp",
+  "bg": "img/bg.webp",
+  "socials": [
+    {
+      "id": "s1",
+      "icon": "x",
+      "color": "#000000",
+      "label": "@CONFAFBRASIL",
+      "url": "https://x.com/CONFAFBRASIL"
+    },
+    {
+      "id": "s2",
+      "icon": "tiktok",
+      "color": "#141414",
+      "label": "@confaf.brasil",
+      "url": "https://www.tiktok.com/@confaf.brasil"
+    },
+    {
+      "id": "s3",
+      "icon": "instagram",
+      "color": "#e1306c",
+      "label": "@confafbrasil",
+      "url": "https://www.instagram.com/confafbrasil"
+    },
+    {
+      "id": "s4",
+      "icon": "instagram",
+      "color": "#e1306c",
+      "label": "@jogador_josimar",
+      "url": "https://www.instagram.com/jogador_josimar"
+    },
+    {
+      "id": "s5",
+      "icon": "youtube",
+      "color": "#ff0000",
+      "label": "@CONFAFBrasil2026",
+      "url": "https://www.youtube.com/@CONFAFBrasil2026"
+    },
+    {
+      "id": "s6",
+      "icon": "facebook",
+      "color": "#1877f2",
+      "label": "Facebook",
+      "url": "https://www.facebook.com/profile.php?id=61592766237261"
+    },
+    {
+      "id": "s7",
+      "icon": "whatsapp",
+      "color": "#25d366",
+      "label": "WhatsApp",
+      "url": "https://api.whatsapp.com/send/?phone=5561986561863"
+    },
+    {
+      "id": "s8",
+      "icon": "email",
+      "color": "#ffffff",
+      "label": "contato@confafbrasil.org.br",
+      "url": "mailto:contato@confafbrasil.org.br"
+    }
+  ],
+  "cards": [
+    {
+      "id": "c1",
+      "img": "img/c1.webp",
+      "label": "SITE INSTITUTO JOSIMAR",
+      "loc": "Brasil",
+      "url": "https://institutojosimar.org.br/"
+    },
+    {
+      "id": "c2",
+      "img": "img/c2.webp",
+      "label": "SITE GRÊMIO PAGUE MENOS",
+      "loc": "Brasil",
+      "url": "https://gremiopaguemenos.org.br/"
+    },
+    {
+      "id": "c3",
+      "img": "img/c3.webp",
+      "label": "SITE CONFAF BRASIL",
+      "loc": "Brasil",
+      "url": "https://confafbrasil.org.br",
+      "white": true
+    },
+    {
+      "id": "c4",
+      "img": "img/c4.webp",
+      "label": "SITE CONFAF NA B4",
+      "loc": "Brasil",
+      "url": "https://b4.capital/pt/projeto-especial-confaf-brasil/"
+    },
+    {
+      "id": "c5",
+      "img": "img/c5.webp",
+      "label": "CURSOS EAD CONFAF",
+      "loc": "Brasil",
+      "url": "https://confafbrasil.org.br/ead/"
+    },
+    {
+      "id": "c6",
+      "img": "img/c6.webp",
+      "label": "CARTEIRAS DE FILIADOS CONFAF",
+      "loc": "Brasil",
+      "url": "https://app.confafbrasil.org.br/"
+    },
+    {
+      "id": "c7",
+      "img": "img/c7.webp",
+      "label": "SITE PROJETO BEIJICA",
+      "loc": "Urbano Santos/MA",
+      "url": "https://confaf-beijica.org.br/"
+    },
+    {
+      "id": "c8",
+      "img": "img/c8.webp",
+      "label": "SITE PROJETO MÃE DE LEITE",
+      "loc": "Baião/PA",
+      "url": "https://confaf-mae-de-leite.org.br/"
+    },
+    {
+      "id": "c9",
+      "img": "img/c9.webp",
+      "label": "SITE PROJETO AMANARA",
+      "loc": "Itapecuru-Mirim/MA",
+      "url": "https://confaf-amanara.org.br/"
+    },
+    {
+      "id": "c10",
+      "img": "img/c10.webp",
+      "label": "SITE PROJETO COROÁ",
+      "loc": "Coroatá/MA",
+      "url": "https://confaf-coroa.org.br/"
+    },
+    {
+      "id": "c11",
+      "img": "img/c11.webp",
+      "label": "SITE PROJETO MANIVA",
+      "loc": "Giramundo/MA",
+      "url": "https://confaf-maniva.org.br/"
+    },
+    {
+      "id": "c12",
+      "img": "img/c12.webp",
+      "label": "SITE PROJETO RAIZES DE PALMEIRAS",
+      "loc": "Palmeira dos Ferreiras/MA",
+      "url": "https://confaf-raizes-de-palmeiras.org.br/"
+    },
+    {
+      "id": "c13",
+      "img": "img/c13.webp",
+      "label": "SITE PROJETO CAJUOCA",
+      "loc": "Engenho/MA",
+      "url": "https://confaf-cajuoca.org.br/"
+    },
+    {
+      "id": "c14",
+      "img": "img/c14.webp",
+      "label": "SITE PROJETO AFLUENTE",
+      "loc": "Braço/MA",
+      "url": "https://confaf-afluente.org.br/"
+    },
+    {
+      "id": "c15",
+      "img": "img/c15.webp",
+      "label": "SITE PROJETO MASSANCAJÚ",
+      "loc": "Massangano 1/MA",
+      "url": "https://confaf-massancaju.org.br/"
+    },
+    {
+      "id": "c16",
+      "img": "img/c16.webp",
+      "label": "SITE PROJETO BENTOÁ",
+      "loc": "Palmeira dos Bentos/MA",
+      "url": "https://confaf-bentoa.org.br/"
+    },
+    {
+      "id": "c17",
+      "img": "img/c17.webp",
+      "label": "SITE AGROPARDO",
+      "loc": "Brasil",
+      "url": "https://guardiadopardo.org.br/"
+    }
+  ]
+}
