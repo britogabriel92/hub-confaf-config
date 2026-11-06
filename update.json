@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "1.12",
+  "versionCode": 13,
+  "versionName": "1.13",
   "apk": "https://github.com/britogabriel92/hub-confaf-config/releases/latest/download/app-release.apk",
-  "notes": "Modo computador real: abre com layout de PC ajustado à tela."
+  "notes": "Botão Publicar no GitHub no menu ⓘ e na barra de edição."
 }
