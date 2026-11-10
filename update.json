@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "1.14",
+  "versionCode": 15,
+  "versionName": "1.15",
   "apk": "https://github.com/britogabriel92/hub-confaf-config/releases/latest/download/app-release.apk",
-  "notes": "Cards mais compactos: foto mais baixa, nome em 2 linhas e local em 1."
+  "notes": "Corrige o tempo esgotado ao atualizar a lista e o app."
 }
