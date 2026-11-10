@@ -88,6 +88,14 @@
       "mode": ""
     },
     {
+      "label": "CONSULTORIA PLANUS",
+      "loc": "Brasília/DF",
+      "url": "https://www.consultoriaplanus.com.br",
+      "img": "https://raw.githubusercontent.com/britogabriel92/hub-confaf-config/main/img/da4d5f78dc0303.jpg",
+      "white": false,
+      "mode": "desktop"
+    },
+    {
       "img": "img/c2.webp",
       "label": "SITE GRÊMIO PAGUE MENOS",
       "loc": "Brasil",
@@ -169,7 +177,7 @@
     },
     {
       "img": "img/c12.webp",
-      "label": "SITE PROJETO RAIZES DE PALMEIRAS",
+      "label": "PROJETO RAIZES DE PALMEIRAS",
       "loc": "Palmeira dos Ferreiras/MA",
       "url": "https://confaf-raizes-de-palmeiras.org.br/",
       "white": false,
