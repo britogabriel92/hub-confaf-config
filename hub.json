@@ -88,10 +88,10 @@
       "mode": ""
     },
     {
+      "img": "https://raw.githubusercontent.com/britogabriel92/hub-confaf-config/main/img/da4d5f78dc0303.jpg",
       "label": "CONSULTORIA PLANUS",
       "loc": "Brasília/DF",
       "url": "https://www.consultoriaplanus.com.br",
-      "img": "https://raw.githubusercontent.com/britogabriel92/hub-confaf-config/main/img/da4d5f78dc0303.jpg",
       "white": false,
       "mode": "desktop"
     },
@@ -118,6 +118,30 @@
       "url": "https://guardiadopardo.org.br/",
       "white": false,
       "mode": ""
+    },
+    {
+      "label": "STTR BARREIRINHAS",
+      "loc": "Barreirinhas/MA",
+      "url": "https://sttr-barreirinhas.org.br",
+      "img": "https://raw.githubusercontent.com/britogabriel92/hub-confaf-config/main/img/41fb33e299c767.jpg",
+      "white": false,
+      "mode": "desktop"
+    },
+    {
+      "label": "AERB BAQUIÁ",
+      "loc": "Pará/PA",
+      "url": "https://aerb-baquia.org.br",
+      "img": "https://raw.githubusercontent.com/britogabriel92/hub-confaf-config/main/img/137c0772048cc3.jpg",
+      "white": false,
+      "mode": "desktop"
+    },
+    {
+      "label": "ASSOCIAÇÃO INDIGENA PUSURU",
+      "loc": "Jacareacanga/aPa",
+      "url": "https://associacao-indigena-pusuru.org.br",
+      "img": "https://raw.githubusercontent.com/britogabriel92/hub-confaf-config/main/img/89e1abe444a997.jpg",
+      "white": false,
+      "mode": "desktop"
     },
     {
       "img": "img/c5.webp",
