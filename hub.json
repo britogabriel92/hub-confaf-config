@@ -120,26 +120,26 @@
       "mode": ""
     },
     {
+      "img": "https://raw.githubusercontent.com/britogabriel92/hub-confaf-config/main/img/41fb33e299c767.jpg",
       "label": "STTR BARREIRINHAS",
       "loc": "Barreirinhas/MA",
       "url": "https://sttr-barreirinhas.org.br",
-      "img": "https://raw.githubusercontent.com/britogabriel92/hub-confaf-config/main/img/41fb33e299c767.jpg",
       "white": false,
       "mode": "desktop"
     },
     {
+      "img": "https://raw.githubusercontent.com/britogabriel92/hub-confaf-config/main/img/137c0772048cc3.jpg",
       "label": "AERB BAQUIÁ",
       "loc": "Pará/PA",
       "url": "https://aerb-baquia.org.br",
-      "img": "https://raw.githubusercontent.com/britogabriel92/hub-confaf-config/main/img/137c0772048cc3.jpg",
       "white": false,
       "mode": "desktop"
     },
     {
-      "label": "ASSOCIAÇÃO INDIGENA PUSURU",
-      "loc": "Jacareacanga/aPa",
-      "url": "https://associacao-indigena-pusuru.org.br",
       "img": "https://raw.githubusercontent.com/britogabriel92/hub-confaf-config/main/img/89e1abe444a997.jpg",
+      "label": "ASSOCIAÇÃO INDIGENA PUSURU",
+      "loc": "Jacareacanga/PA",
+      "url": "https://associacao-indigena-pusuru.org.br",
       "white": false,
       "mode": "desktop"
     },
