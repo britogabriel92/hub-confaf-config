@@ -144,6 +144,22 @@
       "mode": "desktop"
     },
     {
+      "label": "Povoado Centro Novo",
+      "loc": "Coroatá/MA",
+      "url": "https://www povoado-centro-novo.org.br/",
+      "img": "https://raw.githubusercontent.com/britogabriel92/hub-confaf-config/main/img/f2772c6a998846.jpg",
+      "white": false,
+      "mode": "desktop"
+    },
+    {
+      "label": "ASSOCIAÇÃO ARIELMA",
+      "loc": "Marabá/PA",
+      "url": "https://www.associacao-arielma.org.be",
+      "img": "https://raw.githubusercontent.com/britogabriel92/hub-confaf-config/main/img/1213a5c15c4cb8.jpg",
+      "white": false,
+      "mode": "desktop"
+    },
+    {
       "img": "img/c5.webp",
       "label": "CURSOS EAD CONFAF",
       "loc": "Brasil",
